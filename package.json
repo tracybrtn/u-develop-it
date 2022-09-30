@@ -2,5 +2,27 @@
   "dependencies": {
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3"
-  }
+  },
+  "name": "u-develop-it",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracybrtn/u-develop-it.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracybrtn/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/tracybrtn/u-develop-it#readme"
 }
